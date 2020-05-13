@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lesson1.MVC</string>
+    <string name="counter">Current count is: </string>
+</resources>
